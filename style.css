@@ -3,14 +3,6 @@ body {
 	background-color: cadetblue;
 	overflow: auto;
 }
-#title{
-	border: 2px solid black;
-	text-align: center;
-	padding: 5px;
-}
-#bigger{
-	font-size: 7vw;
-}
 p, a{
 	font-size: 2vw;
 }
@@ -112,4 +104,19 @@ img{
 	margin-right: 1vw;
 	margin-left: 1vw;
 	margin-bottom: 1vw;
+}
+.classlink{
+	display: block;
+	color: black;
+	font-size: 3vw;
+}
+.title{
+	border: 2px solid black;
+	text-align: center;
+	padding: 5px;
+}
+.class-box{
+	display:inline-block;
+	width: 30vw;
+	border: 2px solid black;
 }

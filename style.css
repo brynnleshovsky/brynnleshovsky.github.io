@@ -146,3 +146,20 @@ img{
 	color:lightpink;
 	font-family: Garamond, serif;
 }
+.inlinebutton{
+	display: inline-block;
+	width: 15vw;
+	height: 3vw;
+}
+#counterp{
+	display: inline-block;
+	width:15vw;
+	text-align: center;
+	font-size: 2vw;
+}
+#minus{
+	
+}
+#plus{
+	
+}

@@ -1,3 +1,7 @@
+function check (){
 if (document.getElementById("password").value == "FloridaFroggy"){
-	document.getElementById("yes").innerHTML = "YES"
+	document.getElementById("access").innerHTML = "Access Granted!"
+}	
 }
+
+document.getElementById("check").addEventListener("click", check)

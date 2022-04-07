@@ -157,9 +157,8 @@ img{
 	text-align: center;
 	font-size: 2vw;
 }
-#minus{
-	
-}
-#plus{
-	
+#password{
+	display: inline-block;
+	width: 30vw;
+	height: 3vw;
 }

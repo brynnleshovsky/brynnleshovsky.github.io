@@ -162,3 +162,12 @@ img{
 	width: 30vw;
 	height: 3vw;
 }
+.question {
+	display: block;
+	width:50vw;
+}
+.dropdown{
+	display: block;
+	width: 15vw;
+	margin-bottom: 2vw;
+}

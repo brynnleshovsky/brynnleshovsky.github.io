@@ -11,12 +11,14 @@ var q10 = document.getElementById("q10");
 var score = document.getElementById("score");
 var sub = document.getElementById("submit");
 var result = 0;
+var comment = document.getElementById("comment");
 
 function add (){
 	result = result + 1;
 }
 
 function calc (){
+	result = 0;
 	if (q1.value == "2001"){
 		add();
 		}
@@ -29,7 +31,7 @@ function calc (){
 	if (q4.value == "Gryffindor"){
 		add();
 		}
-	if (q5.value == "Professor Quirrel"){
+	if (q5.value == "Professor Quirrell"){
 		add();
 		}
 	if (q6.value == "Platform 9 3/4"){
@@ -48,6 +50,13 @@ function calc (){
 		add();
 		}
 	score.innerHTML=result + "/10";
+	if(result >= 6){
+	comment.innerHTML = "Great job!"	
+	}
+	else{
+	comment.innerHTML = "Do better next time!"	
+	}
+	
 }
 sub.addEventListener("click", calc);
 

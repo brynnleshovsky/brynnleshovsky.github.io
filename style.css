@@ -171,3 +171,20 @@ img{
 	width: 15vw;
 	margin-bottom: 2vw;
 }
+.buttonstyle{
+	display: block;
+	width:15vw;
+	vertical-align: top;
+	padding:1vw;
+	border: solid 2px lightpink;
+}
+#buttonphoto{
+	display: inline-block;
+	vertical-align: top;
+}
+.buttonborder{
+	border: solid 2px lightpink;
+	display: inline-block;
+	width: 15vw; 
+	margin-right: 10vw;
+}

@@ -188,3 +188,23 @@ img{
 	width: 15vw; 
 	margin-right: 10vw;
 }
+#submit{
+	display: block;
+	height: 1.5vw;
+	width: 7vw;
+	margin-top: 2vw;
+	font-size: 1vw;
+}
+#madlib{
+	display: inline-block;
+	width:40vw;
+	border: solid 2px black;
+	padding: 1vw;
+}
+#story {
+	margin-left: 8vw;
+	display: inline-block;
+	width:40vw;
+	vertical-align: top;
+	font-size: 3vw;
+}

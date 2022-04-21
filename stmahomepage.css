@@ -1,0 +1,20 @@
+#blue {
+	background-color: #001489;
+	display: block;
+	height: 8vw; 
+	margin-right: -1vw;
+	margin-left: -1vw;
+	text-align: center;
+}
+.links-item{
+	display: inline-block;
+	color: white;
+	font-size: 1.3vw;
+	padding: 1vw;
+	padding-top: 3vw;
+}
+#logo{
+	display: inline-block;
+	width:30vw;
+	margin-left: 7vw;
+}

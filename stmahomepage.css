@@ -11,10 +11,58 @@
 	color: white;
 	font-size: 1.3vw;
 	padding: 1vw;
-	padding-top: 3vw;
+	padding-top: 2vw;
 }
 #logo{
 	display: inline-block;
 	width:30vw;
 	margin-left: 7vw;
+}
+
+#OS{
+	border: solid 2px #0018AC;
+	background:  #0018AC;
+	color: white;
+	display: inline-block;
+	width: 9vw;
+	height: 1vw;
+	text-align: center;
+	padding-top: 0.5vw;
+	padding-bottom: 1.25vw;
+	padding-left: 0.5vw;
+	padding-right: 0.5vw;
+	font-size: 1.25vw;
+}
+#DH{
+	border: solid 2px #0018AC;
+	background:  #0018AC;
+	color: white;
+	display: inline-block;
+	width: 9vw;
+	height: 1vw;
+	text-align: center;
+	padding-top: 0.5vw;
+	padding-bottom: 1.25vw;
+	padding-left: 0.5vw;
+	padding-right: 0.5vw;
+	margin-left: 30vw;
+	margin-right: 0.9vw;
+	font-size: 1.25vw;
+}
+#searchbutton{
+	display: inline-block;
+	width: 3.3vw;
+	margin-left: 0.75vw;
+	vertical-align: middle
+}
+greybox{
+	background: #F4F4F4;
+	display: block;
+	height: 12vw; 
+	margin-right: -1vw;
+	margin-left: -1vw;
+	margin-top: 2vw;
+}
+.buttons{
+
 }

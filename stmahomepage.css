@@ -66,3 +66,12 @@ greybox{
 .buttons{
 
 }
+.others{
+	display: inline-block;
+	margin-left: 1vw;
+	margin-right: 2vw;
+}
+.margin{
+	display: inline-block;
+	margin-left: 6vw;
+}

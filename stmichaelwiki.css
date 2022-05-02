@@ -1,4 +1,39 @@
 #left{
+	margin-left: -1vw;
+	margin-top: -2.3vw;
+	margin-bottom: -1vw;
 	display: inline-block;
 	background: #EFEFEF;
+	width: 15vw;
+	height: 100vw;
+}
+#wikilogo{
+	display: block;
+	width: 10vw;
+	margin-bottom: 3vw;
+	margin-left: 2vw;
+	margin-top: 1vw;
+}
+.directorylinks{
+	display: block;
+	margin-left: 1vw;
+	color: #0000BC;
+	font-size: 1.1vw;
+	margin-bottom: 0.15vw;
+}
+.greytitle{
+	margin-bottom: 0vw;
+	color: #575757;
+	font-size: 1.2vw;
+}
+#top{
+	display: inline-block;
+	background: #EFEFEF;
+}
+#main{
+	vertical-align: top;
+	display: inline-block;
+}
+#tab{
+	background: white;
 }

@@ -8,7 +8,7 @@
 	height: 100vw;
 }
 #wikilogo{
-	display: block;
+	display: inline-block;
 	width: 10vw;
 	margin-bottom: 3vw;
 	margin-left: 2vw;
@@ -27,13 +27,40 @@
 	font-size: 1.2vw;
 }
 #top{
-	display: inline-block;
+	display:block;
 	background: #EFEFEF;
+	vertical-align: top;
+	text-align: right;
+	margin-top: -2vw;
 }
 #main{
 	vertical-align: top;
 	display: inline-block;
+	width: 60vw;
 }
 #tab{
+	display: inline-block;
 	background: white;
+	vertical-align: bottom;
+	margin-right: 46.8vw;
+}
+#notlogged{
+	display: inline-block;
+}
+.toplinks{
+	display: inline-block;
+}
+.toptext{
+	display: inline-block;
+	vertical-align: top;
+}
+#pfp{
+	display: inline-block;
+	width: 2vw;
+	vertical-align: middle;
+	margin-top: 1.4vw;
+}
+.yeah{
+	color: black;
+	display: inline-block;
 }

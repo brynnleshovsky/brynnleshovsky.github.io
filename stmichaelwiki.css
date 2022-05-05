@@ -5,7 +5,7 @@
 	display: inline-block;
 	background: #EFEFEF;
 	width: 15vw;
-	height: 250vw;
+	height: 320vw;
 }
 #wikilogo{
 	display: inline-block;
@@ -106,4 +106,44 @@
 #p2{
 	display: inline-block;
 	width: 25vw;
+}
+.external{
+color: #0000BC;
+}
+.purple2{
+	background:#C1BFF1;
+	padding: 0.4vw;
+	margin-bottom: -1vw;
+	text-align: center;
+	font-size: 1.2vw;
+}
+.tanbottom{
+	margin-top: 3vw;
+	background: #F3F3F3;
+	border: solid 0.1px black;
+	padding: 0.5vw;
+	color: #0000BC;
+	font-size: 1.25vw;
+}
+.fakelinks{
+	display: inline-block;
+	font-size: 1vw;
+	margin-right: 0.5vw;
+}
+#realbottom{
+	background: #EFEFEF;
+	font-size: 1vw;
+	margin-left: -2.5vw;
+	padding-left: 1vw;
+	padding-top: 1vw;
+	padding-right: 1vw;
+	margin-right: -24vw;
+}
+.goofy{
+	display: inline-block;
+	vertical-align: top;
+	width: 20vw;
+	text-align: center;
+	height: 90vw;
+	background: #EFEFEF;
 }

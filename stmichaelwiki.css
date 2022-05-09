@@ -5,7 +5,7 @@
 	display: inline-block;
 	background: #EFEFEF;
 	width: 15vw;
-	height: 320vw;
+	height: 100vw;
 }
 #wikilogo{
 	display: inline-block;
@@ -33,7 +33,7 @@
 	text-align: right;
 	margin-top: -2vw;
 }
-#main{
+.main{
 	vertical-align: top;
 	display: inline-block;
 	width: 60vw;
@@ -88,9 +88,7 @@
 	margin-top: 0.5vw;
 	margin-bottom: 0.5vw
 }
-#margins{
-	margin-left: 2vw;
-}
+
 #bigtitle{
 	font-size: 2.3vw;
 	margin-bottom: -0.5vw;
@@ -144,6 +142,99 @@ color: #0000BC;
 	vertical-align: top;
 	width: 20vw;
 	text-align: center;
-	height: 90vw;
+	height: 95vw;
 	background: #EFEFEF;
+	border: solid 1px black;
+}
+#church{
+	width: 18vw;
+	margin-top: -1vw
+}
+.small{
+	font-size: 1.2vw;
+}
+#title{
+	margin-top: 0.5vw;
+	margin-bottom: 0.5vw;
+}
+#help{
+	background: #AEC8F8;
+	vertical-align: top;
+	border: solid 1px black;
+	margin-top: -1vw;
+
+}
+#motto{
+	margin: -0.5vw
+}
+#county{
+	width: 19vw;
+}
+#coord{
+	padding-left: 1.5vw;
+	padding-right: 1.5vw;
+}
+.country{
+	width: 20vw;
+	display: inline-block;
+	font-size: 1.2vw;
+	margin-bottom: -2vw;
+	margin-top: -2vw;
+}
+.items1{
+	display: inline-block;
+	margin-left: -15vw;
+	margin-right: 2vw;
+	}
+
+.items2{
+	display: inline-block;
+	margin-right:-15vw;
+	margin-left: 5vw
+	}
+
+.items3{
+	display: inline-block;
+	margin-left: -8vw;
+	margin-right: 2vw;
+	}
+
+.items4{
+	display: inline-block;
+	margin-right:-8vw;
+	margin-left: 3vw
+	}
+.area{
+	font-size: 1.2vw;
+	margin-left: -17vw;
+}
+.pop{
+	font-size: 1.2vw;
+	margin-left: -11vw;
+}
+.items5{
+	display: inline-block;
+	margin-left: -10vw;
+	margin-right: 4vw;
+	}
+
+.items6{
+	display: inline-block;
+	margin-right:-10vw;
+	margin-left: 5vw
+	}
+.items15{
+	display: inline-block;
+	margin-left: -4vw;
+	margin-right: 1vw
+	}
+
+.items16{
+	display: inline-block;
+	margin-right:-4vw;
+	}
+.new{
+	display: inline-block;
+	vertical-align: top;
+	width: 60vw;
 }

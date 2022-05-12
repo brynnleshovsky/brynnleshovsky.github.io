@@ -64,7 +64,7 @@ greybox{
 	margin-top: 2vw;
 }
 .buttons{
-
+width:12vw;
 }
 .others{
 	display: inline-block;
@@ -74,4 +74,10 @@ greybox{
 .margin{
 	display: inline-block;
 	margin-left: 6vw;
+}
+.pics{
+	display: block;
+}
+p{
+	font-size: 1.3vw;
 }

@@ -1,0 +1,55 @@
+.left{
+	background: #001489;
+	margin-left: -1vw;
+	margin-top: -2.3vw;
+	display: inline-block;
+	width: 15vw;
+	padding-left: 1vw;
+	vertical-align: top;
+	color: white;
+}
+
+#logo{
+	display: block;
+	width:96vw;
+}
+.pics{
+	width:31.23vw
+}
+#pride{
+	margin-left:1.5vw;
+}
+.blue{
+	background: #001489;
+	color:#FFD800;
+	display: inline-block;
+	width: 46vw;
+	margin-left: 2.1vw;
+	margin-right: 1vw;
+}
+.gold{
+	background: #FFD800;
+	color: #001489;
+	display: inline-block;
+	width: 46vw;
+}
+.hugeG{
+	font-size: 5vw;
+	color: #FFD800;
+	display: inline-block
+}
+.hugeB{
+	font-size: 5vw;
+	color:#001489;
+	display: inline-block;
+}
+.STMA{
+	text-align: center;
+}
+.littlelogo{
+	width: 5vw;
+	vertical-align: top;
+	margin-top: 3vw;
+	margin-left: 15vw;
+	margin-right: 15vw;
+}

@@ -53,3 +53,18 @@
 	margin-left: 15vw;
 	margin-right: 15vw;
 }
+.bluelink{
+	display: block;
+	margin-bottom: 1vw;
+	text-align: center;
+	color:#FFD800;
+}
+.yellowlink{
+	display: block;
+	margin-bottom: 1vw;
+	text-align: center;
+	color: #001489;
+}
+.title {
+	text-align: center
+}

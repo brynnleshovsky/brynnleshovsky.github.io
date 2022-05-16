@@ -68,3 +68,29 @@
 .title {
 	text-align: center
 }
+.contact{
+	display:block;
+	vertical-align: top;
+}
+.divcontact{
+	display: inline-block;
+	vertical-align: top;
+	margin-top: -1vw;
+}
+.addy{
+	vertical-align: top;
+	margin-top: -1vw
+}
+#black{
+	background: #001489;
+	color: white;
+	padding:5vw;
+	margin-left: -1vw;
+	margin-right: -1vw;
+	font-size: 1.4vw;
+}
+.gk{
+	text-align: center;
+	color: #FFD800;
+	font-size: 4vw;
+}

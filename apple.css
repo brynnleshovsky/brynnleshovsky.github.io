@@ -164,6 +164,8 @@ img{
 	display: inline-block;
 	color:white;
 	border-radius: 10px;
+	width: 3vw;
+	font-size: 1vw;
 }
 #learnmore2{
 	color: #1371cf;
@@ -180,9 +182,13 @@ img{
 }
 #details{
 	margin-top: -1vw;
+	font-size: 1.2vw;
 }
 .red{
 	font-size: 1vw;
 	color:#BF1316;
 	margin-top: -1vw;
+}
+.words{
+	font-size: 1.3vw;
 }

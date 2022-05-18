@@ -64,7 +64,9 @@ greybox{
 	margin-top: 2vw;
 }
 .buttons{
-width:12vw;
+	width:11vw;
+	height: 11vw;
+	margin-top: 2vw;
 }
 .others{
 	display: inline-block;
@@ -80,4 +82,10 @@ width:12vw;
 }
 p{
 	font-size: 1.3vw;
+}
+#activities{
+	margin-left: 2.5vw;
+}
+.div{
+	margin-left: 2.5vw
 }

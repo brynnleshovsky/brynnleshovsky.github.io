@@ -58,12 +58,14 @@
 	margin-bottom: 1vw;
 	text-align: center;
 	color:#FFD800;
+	font-size: 1.6vw;
 }
 .yellowlink{
 	display: block;
 	margin-bottom: 1vw;
 	text-align: center;
 	color: #001489;
+	font-size: 1.6vw;
 }
 .title {
 	text-align: center
@@ -71,6 +73,7 @@
 .contact{
 	display:block;
 	vertical-align: top;
+	font-size: 1.6vw;
 }
 .divcontact{
 	display: inline-block;
@@ -79,7 +82,8 @@
 }
 .addy{
 	vertical-align: top;
-	margin-top: -1vw
+	margin-top: -1vw;
+	font-size: 1.6vw;
 }
 #black{
 	background: #001489;
@@ -92,5 +96,15 @@
 .gk{
 	text-align: center;
 	color: #FFD800;
+	font-size: 4vw;
+}
+h2{
+	font-size: 3.4vw;
+}
+.contactimage{
+	width: 5vw;
+	height: 5vw;
+}
+h1{
 	font-size: 4vw;
 }

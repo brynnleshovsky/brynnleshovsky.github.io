@@ -1,0 +1,37 @@
+body {
+	background-color: mistyrose;
+}
+#miantitle{
+	text-align: center;
+	color: darkgreen;
+	display: block;
+	font-size: 6vw;
+}
+.stickers{
+	display: block;
+	text-align: center
+}
+.stick{
+	width: 6vw;
+	margin-left: 3vw;
+	margin-right: 3vw;
+}
+.overview{
+	text-align: center;
+	color: darkgreen;
+	display: block;
+	font-size: 1.6vw;
+	margin-left: 1vw;
+	margin-right: 1vw
+}
+.quote{
+	background: #00361D;
+	color: lightpink;
+	padding: 1vw;
+	display: block;
+	font-size: 1.2vw;
+	text-align: center;
+	margin-top: 4vw;
+	margin-left: -1vw;
+	margin-right: -1vw;
+}

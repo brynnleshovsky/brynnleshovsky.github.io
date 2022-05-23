@@ -7,6 +7,22 @@ body {
 	display: block;
 	font-size: 6vw;
 }
+.title{
+	text-align: center;
+	color: darkgreen;
+	display: block;
+	font-size: 5vw;
+	margin-bottom: -0.5vw;
+}
+.info{
+	text-align: center;
+	color: darkgreen;
+	display: block;
+	font-size: 1.9vw;
+}
+.above{
+	display: block;
+}
 .stickers{
 	display: block;
 	text-align: center
@@ -15,6 +31,7 @@ body {
 	width: 6vw;
 	margin-left: 3vw;
 	margin-right: 3vw;
+	display: inline-block;
 }
 .overview{
 	text-align: center;
@@ -34,4 +51,54 @@ body {
 	margin-top: 4vw;
 	margin-left: -1vw;
 	margin-right: -1vw;
+}
+.left{
+	vertical-align: top;
+	display: inline-block;
+	width: 35vw;
+	margin-top: 2vw;
+	border: dotted 2px darkgreen;
+	height: 61vw;
+}
+.pics{
+	display: inline-block;
+	width: 61vw;
+	margin-top: 2vw;
+	border: dotted 2px darkgreen;
+	margin-left: -0.5vw;
+	text-align: center;
+	height: 61vw;
+	overflow: auto;
+}
+.group{
+	display: block;
+	margin-left: 1.3vw;
+	margin-right: 1vw;
+	width: 98vw;
+}
+.smalltitle{
+	text-align: center;
+	color: darkgreen;
+	font-size: 3vw;
+}
+.links{
+	color: darkcyan;
+	margin-left: 2vw;
+	font-size: 1.7vw;
+	display: block;
+	margin-bottom: 1vw
+}
+#qlink{
+	color: darkcyan;
+}
+.square{
+	width: 20vw;
+	height: 20vw;
+}
+#stick{
+	width: 9vw;
+}
+#bottom{
+	width: 14vw;
+	margin-left: 10vw
 }

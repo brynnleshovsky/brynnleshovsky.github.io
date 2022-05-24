@@ -45,6 +45,12 @@ expert = 0;
 	if (q2.value == "I could do this all day!"){
 		addExpert();
 	}
+	if (q2.value == "ummm grass?"){
+		addDry();
+	}
+	if (q2.value == "maybe five?"){
+		addWet();
+	}
 
 	
 	
@@ -76,4 +82,27 @@ expert = 0;
 	if (q4.value == "I can keep anything alive!!"){
 		addExpert();
 	}
+	
+	
+
+	if(dry > wet){
+	result.innerHTML = "Ahh the desert parent. You do well with plants that require infrequent watering. Click the link that says *Casual parents* below!"	
+	}
+	if(dry >expert){
+	result.innerHTML = "Ahh the desert parent. You do well with plants that require infrequent watering. Click the link that says *Casual parents* below!"	
+	}
+	if(wet > dry){
+	result.innerHTML = "The over active parent. You like to take care of your plants a little *too* well at times. Click the link that says *Helicopter parents* below!"	
+	}
+	if(wet > expert){
+	result.innerHTML = "The over active parent. You like to take care of your plants a little *too* well at times. Click the link that says *Helicopter parents* below!"	
+	}
+	if(expert > dry){
+	result.innerHTML = "You are an experienced cultivator! Click the link below that says *This is my eigth parents* to find inspiration for some new exotic plants to add to your collection!"	
+	}
+	if(expert > wet){
+	result.innerHTML = "You are an experienced cultivator! Click the link below that says *This is my eigth parents* to find inspiration for some new exotic plants to add to your collection!"	
+	}
 }
+
+button.addEventListener("click", Calc);

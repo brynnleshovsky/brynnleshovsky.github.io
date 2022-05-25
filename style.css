@@ -29,7 +29,7 @@ img{
 .about-me {
 	display: inline-block;
 	width: 40vw;
-	height: 30vw;
+	height: 59vw;
 	margin-left: 4vw;
 	border: 2px solid lightpink;
 	padding: 10px;
@@ -39,7 +39,7 @@ img{
 .links {
 	display: inline-block;
 	width: 39vw;
-	height: 30vw;
+	height: 59vw;
 	border: 2px solid lightpink;
 	padding: 10px;
 	vertical-align: top;
@@ -51,7 +51,8 @@ img{
 	vertical-align: top;
 	color: black;
 	font-family: Garamond, serif;
-	margin: 0.1vw;
+	margin-top: 0.1vw;
+	margin-bottom: 0.1vw;
 }
 .about-me-item{
 	display: inline-block;

@@ -169,3 +169,14 @@ body {
 	margin-left: 5vw;
 	margin-right: 5vw;
 }
+.iholdpix{
+	text-align: center;
+}
+.aboutme{
+	color: darkgreen;
+	text-align: center;
+}
+#pic1{
+	display: block;
+	
+}

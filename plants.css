@@ -175,8 +175,34 @@ body {
 .aboutme{
 	color: darkgreen;
 	text-align: center;
+	font-size: 1.8vw;
 }
-#pic1{
+#pic1,#pic3,#pic5{
+	display: inline-block;
+	height: 65vw;
+	width: 40vw;
+}
+#pic2,#pic4,#pic6{
+	height: 65vw;
+	margin-left: 50vw;
+	width: 40vw
+}
+.pic1,.pic2,.pic3,.pic4,.pic5,.pic6{
 	display: block;
-	
+}
+.caption{
+	display: inline-block;
+	vertical-align: top;
+	margin-top: 30vw;
+	font-size: 2.5vw;
+	margin-left: 15vw;
+	color: darkgreen;
+}
+.caption2{
+	display: inline-block;
+	vertical-align: top;
+	margin-top: -30vw;
+	font-size: 2.5vw;
+	margin-left: 13vw;
+	color: darkgreen;
 }

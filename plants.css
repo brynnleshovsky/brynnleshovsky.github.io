@@ -91,10 +91,10 @@ body {
 	text-align: center;
 	color: darkgreen;
 	font-size: 2.4vw;
-}.smalltitle{
-	text-align: center;
+}.smalltitle3{
 	color: darkgreen;
-	font-size: 3vw;
+	font-size: 2vw;
+	display: block;
 }
 .links{
 	color: darkcyan;
@@ -109,6 +109,10 @@ body {
 	font-size: 1.5vw;
 	display: block;
 	margin-bottom: 1vw
+}
+.links3{
+	color: darkcyan;
+	font-size: 1.7vw;
 }
 #qlink{
 	color: darkcyan;
@@ -176,6 +180,7 @@ body {
 	color: darkgreen;
 	text-align: center;
 	font-size: 1.8vw;
+	display: block;
 }
 #pic1,#pic3,#pic5{
 	display: inline-block;
@@ -205,4 +210,24 @@ body {
 	font-size: 2.5vw;
 	margin-left: 13vw;
 	color: darkgreen;
+}
+.pothosinfo{
+	display: inline-block;
+	width: 49vw;
+	color: darkgreen;
+	font-size: 1.6vw;
+	vertical-align: top;
+	margin-top: 15vw;
+}
+.pothospic{
+	display: inline-block;
+	width: 47vw;
+}
+.pothospic2{
+	display: inline-block;
+	width: 47vw;
+	height: 35vw;
+}
+.pothos{
+	display: inline-block;
 }
